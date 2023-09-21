@@ -5,7 +5,7 @@ public class Q1248_Count_Number_of_Nice_Subarrays {
 
     }
 //    public int numberOfSubarrays(int[] nums, int k) {
-//        //by prefix method, time complexity O(n)
+//        //by math method, time complexity O(n)
 //
 //    }
 
